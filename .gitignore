@@ -1,0 +1,13 @@
+# -*- mode: gitignore -*-
+/*
+
+!.gitignore
+!README*
+!/packages/
+!/progs/
+!/plugins/
+!/styles/
+
+*~
+\#*\#
+.\#*

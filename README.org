@@ -1,0 +1,11 @@
+* My configuration for TeXmacs
+
+** progs
+
++ my-init-texmacs.scm
++ my-init-buffer.scm
+
+** plugins
+
++ graph: to graph a rose
++ ent: for book [[https://github.com/williamstein/ent][ent]].
