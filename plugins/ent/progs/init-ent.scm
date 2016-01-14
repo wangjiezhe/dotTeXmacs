@@ -1,3 +1,3 @@
-;;; register enumerate-exercise and enumerate-alpha-2
+;;; register new list environment
 (define-group enumerate-tag
   enumerate-exercise enumerate-alpha-2)

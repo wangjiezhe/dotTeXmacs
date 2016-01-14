@@ -109,6 +109,10 @@
   <assign|zmod|<macro|p|<active*|<with|math-font|Bbb*|Z>>/<arg|p><active*|<with|math-font|Bbb*|Z>>>>
 
   <assign|ul|<macro|body|<underline|<arg|body>>>>
+
+  <assign|center-box|<macro|body|<center|<frame|<style-with|src-compact|none|<arg|body><space|2em>>>>>>
+
+  \;
 </body>
 
 <initial|<\collection>
