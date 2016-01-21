@@ -73,7 +73,7 @@
   </src-comment>>
 
   <assign|indexnn|<macro|key|<style-with|src-compact|none|<flag|<localize|index>|dark
-  green|key><index-complex|<tuple|<arg|key>>|strong|<tuple|key>>>>>
+  green|key><index-complex|<tuple|<arg|key>>|strong||<tuple|<arg|key>>>>>>
 
   <assign|subindexnn|<macro|key|secondary|<style-with|src-compact|none|<flag|<localize|index>|dark
   green|key><index-complex|<tuple|<arg|key>|<arg|secondary>>|strong||<tuple|<arg|key>|<arg|secondary>>>>>>
