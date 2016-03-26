@@ -8,4 +8,5 @@
 ** plugins
 
 + graph: to graph a rose
-+ ent: for book [[https://github.com/williamstein/ent][ent]].
++ ent: for book [[https://github.com/williamstein/ent][ent]]
++ git: involve with git
